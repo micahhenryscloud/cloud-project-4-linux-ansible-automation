@@ -1,5 +1,9 @@
 # Linux and Ansible Automation
 
+## Architecture Diagram
+
+![Architecture Diagram](images/architecture-diagram.png)
+
 ## Overview
 
 This project demonstrates the use of Ansible to automate Linux server configuration and application deployment.
