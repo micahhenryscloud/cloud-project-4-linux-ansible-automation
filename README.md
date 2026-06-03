@@ -73,3 +73,8 @@ Through this project, I gained hands-on experience with:
 The playbook successfully installed Apache, started and enabled the service, and deployed a custom web page.
 
 The playbook was re-run multiple times to verify idempotent behaviour, ensuring that no unnecessary changes were made when the desired state already existed.
+
+## Additional Documentation
+
+- [Design Decisions](docs/design-decisions.md)
+- [Troubleshooting Notes](docs/troubleshooting.md)
